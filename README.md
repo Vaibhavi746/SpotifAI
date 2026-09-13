@@ -27,8 +27,6 @@ The Spotify dataset consists of two files: `tracks.csv` and `artists.csv`. After
 Among all the models tested, the **Random Forest Classifier** achieved the best performance.
 
 - Accuracy: **86.8%**
-- Mean Squared Error (MSE): **0.226**
-- Mean Absolute Error (MAE): **0.157**
 
 Model performance was further analyzed using confusion matrices, correlation heatmaps, and accuracy comparison graphs.
 
